@@ -1,0 +1,121 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/kit_pyromane.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [
+                "\uE000"
+            ]
+        },
+		{
+            "type": "bitmap",
+            "file": "minecraft:font/kit_combattant.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [
+                "\uE001"
+            ]
+        },
+		{
+            "type": "bitmap",
+            "file": "minecraft:font/kit_vindicateur.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [
+                "\uE002"
+            ]
+        },
+		{
+            "type": "bitmap",
+            "file": "minecraft:font/kit_alchimiste.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [
+                "\uE003"
+            ]
+        },
+		{
+            "type": "bitmap",
+            "file": "minecraft:font/kit_archer.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [
+                "\uE004"
+            ]
+        },
+		{
+            "type": "bitmap",
+            "file": "minecraft:font/kit_tank.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [
+                "\uE005"
+            ]
+        },
+		{
+            "type": "bitmap",
+            "file": "minecraft:font/kit_roi.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [
+                "\uE006"
+            ]
+        },
+		{
+            "type": "bitmap",
+            "file": "minecraft:font/kit_poseidon.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [
+                "\uE007"
+            ]
+        },
+		{
+            "type": "bitmap",
+            "file": "minecraft:font/kit_enderman.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [
+                "\uE008"
+            ]
+        },
+		{
+            "type": "bitmap",
+            "file": "minecraft:font/kit_pigeon.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [
+                "\uE009"
+            ]
+        },
+		{
+            "type": "bitmap",
+            "file": "minecraft:font/kit_cancer.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [
+                "\uE00a"
+            ]
+        },
+		{
+            "type": "bitmap",
+            "file": "minecraft:font/kit_eclaireur.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [
+                "\uE00b"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/logo.png",
+            "ascent": -180,
+            "height": 84,
+            "chars": [
+                "\uE00c"
+            ]
+        }
+	]
+}

@@ -1,0 +1,40 @@
+[C]§f============
+[C]§eHigh-Court's Team
+[C]§f============
+ 
+§7Original Creator
+§f          Bafy78
+ 
+§7Lead Creative Designer
+§f          Bafy78
+ 
+§7Producers
+§f          Bafy78
+§f          CorruptedSouls
+§f          Thimote75
+
+§7Lead Engineer
+§f          Thimote75
+
+§7Game Developers
+§f          Bafy78
+§f          Thimote75  
+
+§7TGC Content Lead
+§f          Bafy78
+ 
+§TGC Content Coordinator
+§f          Bafy78
+§f          CorruptedSouls
+ 
+§7Art Director
+§f          CorruptedSouls
+ 
+§7Graphics Artists
+§f          CorruptedSouls
+§f          Bafy78
+
+
+§7User Experience Design Director
+§f          Bafy78
+
