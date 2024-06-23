@@ -1,0 +1,33 @@
+{
+	"block.nylium.hit": {
+		"sounds": [
+			{ "name": "step/stone1" },
+			{ "name": "step/stone2" },
+			{ "name": "step/stone3" },
+			{ "name": "step/stone4" },
+			{ "name": "step/stone5" },
+			{ "name": "step/stone6" }
+		],
+		"replace": "true"
+	},
+	"block.nylium_step": {
+		"sounds": [
+			{ "name": "step/stone1" },
+			{ "name": "step/stone2" },
+			{ "name": "step/stone3" },
+			{ "name": "step/stone4" },
+			{ "name": "step/stone5" },
+			{ "name": "step/stone6" }
+		],
+		"replace": "true"
+	},
+	"block.nylium_break": {
+		"sounds": [
+			{ "name": "dig/stone1" },
+			{ "name": "dig/stone2" },
+			{ "name": "dig/stone3" },
+			{ "name": "dig/stone4" }
+		],
+		"replace": "true"
+	}
+}
