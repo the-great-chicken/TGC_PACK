@@ -10,7 +10,7 @@
  
 §7Producers
 §f          Bafy78
-§f          CorruptedSouls
+§f          PurifiedSouls
 §f          Thimote75
 
 §7Lead Engineer
@@ -25,13 +25,13 @@
  
 §TGC Content Coordinator
 §f          Bafy78
-§f          CorruptedSouls
+§f          PurifiedSouls
  
 §7Art Director
-§f          CorruptedSouls
+§f          PurifiedSouls
  
 §7Graphics Artists
-§f          CorruptedSouls
+§f          PurifiedSouls
 §f          Bafy78
 
 
