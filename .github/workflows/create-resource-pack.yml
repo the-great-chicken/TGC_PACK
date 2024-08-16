@@ -17,7 +17,8 @@ jobs:
 
     - name: Create Resource Pack Zip
       run: |
-        zip -r TGC_Pack_V${{ steps.major_version.outputs.version }}-${{ github.run_number }}.zip TGC_Pack/
+        cd TGC_Pack
+        zip -r ../TGC_Pack_V${{ steps.major_version.outputs.version }}-${{ github.run_number }}.zip .
       
     - name: Create Release
       id: create_release
