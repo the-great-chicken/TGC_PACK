@@ -1,0 +1,41 @@
+name: Create Resource Pack
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  create-resource-pack:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+
+    - name: Read major version
+      id: major_version
+      run: echo "::set-output name=version::$(cat version.txt)"
+
+    - name: Create Resource Pack Zip
+      run: |
+        zip -r TGC_Pack_V${{ steps.major_version.outputs.version }}-${{ github.run_number }}.zip TGC_Pack/
+      
+    - name: Create Release
+      id: create_release
+      uses: actions/create-release@v1
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      with:
+        tag_name: v${{ steps.major_version.outputs.version }}-${{ github.run_number }}
+        release_name: Release ${{ steps.major_version.outputs.version }}-${{ github.run_number }}
+        draft: false
+        prerelease: false
+
+    - name: Upload Release Asset
+      uses: actions/upload-release-asset@v1
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      with:
+        upload_url: ${{ steps.create_release.outputs.upload_url }}
+        asset_path: ./TGC_Pack_V${{ steps.major_version.outputs.version }}-${{ github.run_number }}.zip
+        asset_name: TGC_Pack_V${{ steps.major_version.outputs.version }}-${{ github.run_number }}.zip
+        asset_content_type: application/zip
