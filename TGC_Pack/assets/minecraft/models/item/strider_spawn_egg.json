@@ -5,6 +5,6 @@
     "layer1": "minecraft:item/spawn_egg_overlay"
   },
   "overrides": [
-    {"predicate": {"custom_model_data": 1},"model": "minecraft:item/firework_rocket"}
+    {"predicate": {"custom_model_data": 1},"model": "minecraft:item/firework"}
   ]
 }
