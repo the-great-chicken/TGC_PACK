@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/base_spawn_egg_model",
+    "textures": {
+        "texture": "minecraft:item/firework_rocket"
+    }
+}
