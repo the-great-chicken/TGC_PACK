@@ -1,7 +1,7 @@
 {
-  "menu.game": "",
+  "menu.game": "",
   "menu.returnToMenu": "§cSave and Quit to Title",
-  "menu.disconnect": "§cDisconnect",
+  "menu.disconnect": "\uE00c§cDisconnect",
   "menu.returnToGame": "§aBack to Game",
   "container.crafting": ""
 }
