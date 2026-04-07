@@ -3,5 +3,7 @@
   "menu.returnToMenu": "§cSauvegarder et Quitter",
   "menu.disconnect": "§cSe Déconnecter",
   "menu.returnToGame": "§aRevenir au Jeu",
-  "container.crafting": ""
+  "container.crafting": "",
+  "death.attack.starve": "%1$s est mort(e) de la grippe aviaire",
+  "death.attack.starve.player": "%1$s est mort(e) de la grippe aviaire en tentant de combattre (un(e)) %2$s"
 }

@@ -1,0 +1,12 @@
+{
+  "confinement/siren": {
+    "subtitle": "Siren blares",
+    "sounds": [
+      {
+        "name": "sgp.mineurs:confinement/siren",
+        "stream": true,
+        "attenuation_distance": 200
+      }
+    ]
+  }
+}
