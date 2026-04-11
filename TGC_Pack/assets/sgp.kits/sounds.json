@@ -1,0 +1,12 @@
+{
+  "abilities/allumer_le_feu": {
+    "subtitle": "Johny Halliday's screams",
+    "sounds": [
+      {
+        "name": "sgp.kits:abilities/allumer_le_feu",
+        "stream": true,
+        "attenuation_distance": 24
+      }
+    ]
+  }
+}
