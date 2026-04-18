@@ -1,0 +1,18 @@
+{
+  "providers": [
+    {
+      "type": "bitmap",
+      "file": "sgp.mineurs:beacon_character.png",
+      "ascent": 8,
+      "height": 10,
+      "chars": ["🮘"]
+    },
+    {
+      "type": "bitmap",
+      "file": "sgp.mineurs:beacon_character_inside.png",
+      "ascent": 8,
+      "height": 10,
+      "chars": ["🮙"]
+    }
+  ]
+}
