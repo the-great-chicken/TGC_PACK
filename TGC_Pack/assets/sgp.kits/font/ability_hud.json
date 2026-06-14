@@ -1,0 +1,13 @@
+{
+  "providers": [
+    {
+      "type": "bitmap",
+      "file": "sgp.kits:font/ability_cooldown_bar.png",
+      "ascent": -16,
+      "height": 8,
+      "chars": [
+        ""
+      ]
+    }
+  ]
+}
