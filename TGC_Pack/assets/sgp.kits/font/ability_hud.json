@@ -3,10 +3,19 @@
     {
       "type": "bitmap",
       "file": "sgp.kits:font/ability_cooldown_bar.png",
-      "ascent": -16,
-      "height": 8,
+      "ascent": -19,
+      "height": 16,
       "chars": [
         ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "sgp.kits:font/ability_cooldown_bar_background.png",
+      "ascent": -19,
+      "height": 16,
+      "chars": [
+        ""
       ]
     }
   ]
