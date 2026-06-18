@@ -3,19 +3,118 @@
     {
       "type": "bitmap",
       "file": "sgp.kits:font/ability_cooldown_bar.png",
-      "ascent": -19,
-      "height": 16,
+      "ascent": -17,
+      "height": 20,
       "chars": [
         ""
       ]
     },
     {
       "type": "bitmap",
-      "file": "sgp.kits:font/ability_cooldown_bar_background.png",
-      "ascent": -19,
-      "height": 16,
+      "file": "minecraft:font/kit_pigeon.png",
+      "ascent": -23,
+      "height": 8,
       "chars": [
-        ""
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/kit_combattant.png",
+      "ascent": -23,
+      "height": 8,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/kit_archer.png",
+      "ascent": -23,
+      "height": 8,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/kit_vindicateur.png",
+      "ascent": -22,
+      "height": 8,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/kit_pyromane.png",
+      "ascent": -23,
+      "height": 8,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/kit_tank.png",
+      "ascent": -23,
+      "height": 8,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/kit_roi.png",
+      "ascent": -23,
+      "height": 8,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/kit_eclaireur.png",
+      "ascent": -23,
+      "height": 8,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/kit_alchimiste.png",
+      "ascent": -23,
+      "height": 8,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/kit_enderman.png",
+      "ascent": -23,
+      "height": 8,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/kit_cancer.png",
+      "ascent": -23,
+      "height": 8,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/kit_poseidon.png",
+      "ascent": -23,
+      "height": 8,
+      "chars": [
+        ""
       ]
     }
   ]
