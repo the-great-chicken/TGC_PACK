@@ -33,7 +33,7 @@ void main() {
     if(Position.z == 0.0 
         && ((length(Color.rgb - vec3(0.501, 1.0, 0.125)) < 0.002 && (isAt(offset, vID, 26) || isAt(offset, vID, 27))) 
         || (length(Color.rgb - vec3(0.0, 0.0, 0.0)) < 0.002 && (isAt(offset, vID, 25) || isAt(offset, vID, 26) || isAt(offset, vID, 27) || isAt(offset, vID, 28))))) { 
-        pos += vec3(1.0, 5.0, 0.0); // apply an offset
+        pos += vec3(0.7, 5.0, 0.0); // apply an offset
     }
 
     gl_Position = ProjMat * ModelViewMat * vec4(pos, 1.0);
