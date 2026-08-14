@@ -2,7 +2,7 @@
     "providers": [
         {
             "type": "bitmap",
-            "file": "minecraft:font/spawn_atrium.png",
+            "file": "sgp.misc:font/spawns/atrium.png",
             "ascent": 8,
             "height": 8,
             "chars": [
@@ -11,7 +11,7 @@
         },
         {
             "type": "bitmap",
-            "file": "minecraft:font/spawn_carrefour.png",
+            "file": "sgp.misc:font/spawns/carrefour.png",
             "ascent": 8,
             "height": 8,
             "chars": [
@@ -20,7 +20,7 @@
         },
         {
             "type": "bitmap",
-            "file": "minecraft:font/spawn_chaudron.png",
+            "file": "sgp.misc:font/spawns/chaudron.png",
             "ascent": 8,
             "height": 8,
             "chars": [
@@ -29,7 +29,7 @@
         },
         {
             "type": "bitmap",
-            "file": "minecraft:font/spawn_crypte.png",
+            "file": "sgp.misc:font/spawns/crypte.png",
             "ascent": 8,
             "height": 8,
             "chars": [
@@ -38,7 +38,7 @@
         },
         {
             "type": "bitmap",
-            "file": "minecraft:font/spawn_dortoir.png",
+            "file": "sgp.misc:font/spawns/dortoir.png",
             "ascent": 8,
             "height": 8,
             "chars": [
@@ -47,7 +47,7 @@
         },
         {
             "type": "bitmap",
-            "file": "minecraft:font/spawn_egouts.png",
+            "file": "sgp.misc:font/spawns/egouts.png",
             "ascent": 8,
             "height": 8,
             "chars": [
@@ -56,7 +56,7 @@
         },
         {
             "type": "bitmap",
-            "file": "minecraft:font/spawn_fontaine.png",
+            "file": "sgp.misc:font/spawns/fontaine.png",
             "ascent": 8,
             "height": 8,
             "chars": [
@@ -65,7 +65,7 @@
         },
         {
             "type": "bitmap",
-            "file": "minecraft:font/spawn_galerie.png",
+            "file": "sgp.misc:font/spawns/galerie.png",
             "ascent": 8,
             "height": 8,
             "chars": [
@@ -74,7 +74,7 @@
         },
         {
             "type": "bitmap",
-            "file": "minecraft:font/spawn_gouffre.png",
+            "file": "sgp.misc:font/spawns/gouffre.png",
             "ascent": 8,
             "height": 8,
             "chars": [
@@ -83,7 +83,7 @@
         },
         {
             "type": "bitmap",
-            "file": "minecraft:font/spawn_grande_salle.png",
+            "file": "sgp.misc:font/spawns/grande_salle.png",
             "ascent": 8,
             "height": 8,
             "chars": [
@@ -92,7 +92,7 @@
         },
         {
             "type": "bitmap",
-            "file": "minecraft:font/spawn_grange.png",
+            "file": "sgp.misc:font/spawns/grange.png",
             "ascent": 8,
             "height": 8,
             "chars": [
@@ -101,7 +101,7 @@
         },
         {
             "type": "bitmap",
-            "file": "minecraft:font/spawn_hangar.png",
+            "file": "sgp.misc:font/spawns/hangar.png",
             "ascent": 8,
             "height": 8,
             "chars": [
@@ -110,7 +110,7 @@
         },
         {
             "type": "bitmap",
-            "file": "minecraft:font/spawn_jump_sud.png",
+            "file": "sgp.misc:font/spawns/jump_sud.png",
             "ascent": 8,
             "height": 8,
             "chars": [
@@ -119,7 +119,7 @@
         },
         {
             "type": "bitmap",
-            "file": "minecraft:font/spawn_labyrinthe.png",
+            "file": "sgp.misc:font/spawns/labyrinthe.png",
             "ascent": 8,
             "height": 8,
             "chars": [
@@ -128,7 +128,7 @@
         },
         {
             "type": "bitmap",
-            "file": "minecraft:font/spawn_maison.png",
+            "file": "sgp.misc:font/spawns/maison.png",
             "ascent": 8,
             "height": 8,
             "chars": [
@@ -137,7 +137,7 @@
         },
         {
             "type": "bitmap",
-            "file": "minecraft:font/spawn_observatoire.png",
+            "file": "sgp.misc:font/spawns/observatoire.png",
             "ascent": 8,
             "height": 8,
             "chars": [
@@ -146,7 +146,7 @@
         },
         {
             "type": "bitmap",
-            "file": "minecraft:font/spawn_pavillon.png",
+            "file": "sgp.misc:font/spawns/pavillon.png",
             "ascent": 8,
             "height": 8,
             "chars": [
@@ -155,7 +155,7 @@
         },
         {
             "type": "bitmap",
-            "file": "minecraft:font/spawn_puits.png",
+            "file": "sgp.misc:font/spawns/puits.png",
             "ascent": 8,
             "height": 8,
             "chars": [
@@ -164,7 +164,7 @@
         },
         {
             "type": "bitmap",
-            "file": "minecraft:font/spawn_reunion.png",
+            "file": "sgp.misc:font/spawns/reunion.png",
             "ascent": 8,
             "height": 8,
             "chars": [
@@ -173,7 +173,7 @@
         },
         {
             "type": "bitmap",
-            "file": "minecraft:font/spawn_sanctuaire.png",
+            "file": "sgp.misc:font/spawns/sanctuaire.png",
             "ascent": 8,
             "height": 8,
             "chars": [
@@ -182,7 +182,7 @@
         },
         {
             "type": "bitmap",
-            "file": "minecraft:font/spawn_toit.png",
+            "file": "sgp.misc:font/spawns/toit.png",
             "ascent": 8,
             "height": 8,
             "chars": [
@@ -191,7 +191,7 @@
         },
         {
             "type": "bitmap",
-            "file": "minecraft:font/spawn_vallons.png",
+            "file": "sgp.misc:font/spawns/vallons.png",
             "ascent": 8,
             "height": 8,
             "chars": [
