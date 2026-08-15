@@ -1,121 +1,298 @@
 {
-    "providers": [
-        {
-            "type": "bitmap",
-            "file": "minecraft:font/kit_pyromane.png",
-            "ascent": 8,
-            "height": 8,
-            "chars": [
-                "\uE000"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "minecraft:font/kit_combattant.png",
-            "ascent": 8,
-            "height": 8,
-            "chars": [
-                "\uE001"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "minecraft:font/kit_vindicateur.png",
-            "ascent": 8,
-            "height": 8,
-            "chars": [
-                "\uE002"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "minecraft:font/kit_alchimiste.png",
-            "ascent": 8,
-            "height": 8,
-            "chars": [
-                "\uE003"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "minecraft:font/kit_archer.png",
-            "ascent": 8,
-            "height": 8,
-            "chars": [
-                "\uE004"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "minecraft:font/kit_tank.png",
-            "ascent": 8,
-            "height": 8,
-            "chars": [
-                "\uE005"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "minecraft:font/kit_roi.png",
-            "ascent": 8,
-            "height": 8,
-            "chars": [
-                "\uE006"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "minecraft:font/kit_poseidon.png",
-            "ascent": 8,
-            "height": 8,
-            "chars": [
-                "\uE007"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "minecraft:font/kit_enderman.png",
-            "ascent": 8,
-            "height": 8,
-            "chars": [
-                "\uE008"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "minecraft:font/kit_pigeon.png",
-            "ascent": 8,
-            "height": 8,
-            "chars": [
-                "\uE009"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "minecraft:font/kit_cancer.png",
-            "ascent": 8,
-            "height": 8,
-            "chars": [
-                "\uE00a"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "minecraft:font/kit_eclaireur.png",
-            "ascent": 8,
-            "height": 8,
-            "chars": [
-                "\uE00b"
-            ]
-        },
-        {
-            "type": "bitmap",
-            "file": "minecraft:font/logo.png",
-            "ascent": -180,
-            "height": 84,
-            "chars": [
-                "\uE00c"
-            ]
-        }
-	]
+  "providers": [
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/kit_pyromane.png",
+      "ascent": 8,
+      "height": 8,
+      "chars": ["\uE000"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/kit_combattant.png",
+      "ascent": 8,
+      "height": 8,
+      "chars": ["\uE001"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/kit_vindicateur.png",
+      "ascent": 8,
+      "height": 8,
+      "chars": ["\uE002"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/kit_alchimiste.png",
+      "ascent": 8,
+      "height": 8,
+      "chars": ["\uE003"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/kit_archer.png",
+      "ascent": 8,
+      "height": 8,
+      "chars": ["\uE004"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/kit_tank.png",
+      "ascent": 8,
+      "height": 8,
+      "chars": ["\uE005"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/kit_roi.png",
+      "ascent": 8,
+      "height": 8,
+      "chars": ["\uE006"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/kit_poseidon.png",
+      "ascent": 8,
+      "height": 8,
+      "chars": ["\uE007"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/kit_enderman.png",
+      "ascent": 8,
+      "height": 8,
+      "chars": ["\uE008"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/kit_pigeon.png",
+      "ascent": 8,
+      "height": 8,
+      "chars": ["\uE009"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/kit_cancer.png",
+      "ascent": 8,
+      "height": 8,
+      "chars": ["\uE00a"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/kit_eclaireur.png",
+      "ascent": 8,
+      "height": 8,
+      "chars": ["\uE00b"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/logo.png",
+      "ascent": -18,
+      "height": 84,
+      "chars": ["\uE00c"]
+    },
+    {
+      "file": "char/black.png",
+      "chars": [""],
+      "height": 1,
+      "ascent": -5000,
+      "type": "bitmap"
+    },
+    {
+      "file": "char/black.png",
+      "chars": [""],
+      "height": 2,
+      "ascent": -5000,
+      "type": "bitmap"
+    },
+    {
+      "file": "char/black.png",
+      "chars": [""],
+      "height": 3,
+      "ascent": -5000,
+      "type": "bitmap"
+    },
+    {
+      "file": "char/black.png",
+      "chars": [""],
+      "height": 4,
+      "ascent": -5000,
+      "type": "bitmap"
+    },
+    {
+      "file": "char/black.png",
+      "chars": [""],
+      "height": 5,
+      "ascent": -5000,
+      "type": "bitmap"
+    },
+    {
+      "file": "char/black.png",
+      "chars": [""],
+      "height": 6,
+      "ascent": -5000,
+      "type": "bitmap"
+    },
+    {
+      "file": "char/black.png",
+      "chars": [""],
+      "height": 7,
+      "ascent": -5000,
+      "type": "bitmap"
+    },
+    {
+      "file": "char/black.png",
+      "chars": [""],
+      "height": 15,
+      "ascent": -5000,
+      "type": "bitmap"
+    },
+    {
+      "file": "char/black.png",
+      "chars": [""],
+      "height": 31,
+      "ascent": -5000,
+      "type": "bitmap"
+    },
+    {
+      "file": "char/black.png",
+      "chars": [""],
+      "height": 63,
+      "ascent": -5000,
+      "type": "bitmap"
+    },
+    {
+      "file": "char/black.png",
+      "chars": [""],
+      "height": 127,
+      "ascent": -5000,
+      "type": "bitmap"
+    },
+    {
+      "file": "char/black.png",
+      "chars": [""],
+      "height": 256,
+      "ascent": -5000,
+      "type": "bitmap"
+    },
+    {
+      "file": "char/black.png",
+      "chars": [""],
+      "height": 512,
+      "ascent": -5000,
+      "type": "bitmap"
+    },
+    {
+      "file": "char/black.png",
+      "chars": [""],
+      "height": 1024,
+      "ascent": -5000,
+      "type": "bitmap"
+    },
+    {
+      "file": "char/black.png",
+      "chars": [""],
+      "height": -3,
+      "ascent": -5000,
+      "type": "bitmap"
+    },
+    {
+      "file": "char/black.png",
+      "chars": [""],
+      "height": -4,
+      "ascent": -5000,
+      "type": "bitmap"
+    },
+    {
+      "file": "char/black.png",
+      "chars": [""],
+      "height": -5,
+      "ascent": -5000,
+      "type": "bitmap"
+    },
+    {
+      "file": "char/black.png",
+      "chars": [""],
+      "height": -6,
+      "ascent": -5000,
+      "type": "bitmap"
+    },
+    {
+      "file": "char/black.png",
+      "chars": [""],
+      "height": -7,
+      "ascent": -5000,
+      "type": "bitmap"
+    },
+    {
+      "file": "char/black.png",
+      "chars": [""],
+      "height": -8,
+      "ascent": -5000,
+      "type": "bitmap"
+    },
+    {
+      "file": "char/black.png",
+      "chars": [""],
+      "height": -9,
+      "ascent": -5000,
+      "type": "bitmap"
+    },
+    {
+      "file": "char/black.png",
+      "chars": [""],
+      "height": -10,
+      "ascent": -5000,
+      "type": "bitmap"
+    },
+    {
+      "file": "char/black.png",
+      "chars": [""],
+      "height": -18,
+      "ascent": -5000,
+      "type": "bitmap"
+    },
+    {
+      "file": "char/black.png",
+      "chars": [""],
+      "height": -34,
+      "ascent": -5000,
+      "type": "bitmap"
+    },
+    {
+      "file": "char/black.png",
+      "chars": [""],
+      "height": -66,
+      "ascent": -5000,
+      "type": "bitmap"
+    },
+    {
+      "file": "char/black.png",
+      "chars": [""],
+      "height": -130,
+      "ascent": -5000,
+      "type": "bitmap"
+    },
+    {
+      "file": "char/black.png",
+      "chars": [""],
+      "height": -259,
+      "ascent": -5000,
+      "type": "bitmap"
+    },
+    {
+      "file": "char/black.png",
+      "chars": [""],
+      "height": -515,
+      "ascent": -5000,
+      "type": "bitmap"
+    },
+    {
+      "file": "char/black.png",
+      "chars": [""],
+      "height": -1027,
+      "ascent": -5000,
+      "type": "bitmap"
+    }
+  ]
 }
