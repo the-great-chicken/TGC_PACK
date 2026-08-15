@@ -1,0 +1,202 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "sgp.misc:font/spawns/atrium.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [
+                "\uE000"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "sgp.misc:font/spawns/carrefour.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [
+                "\uE001"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "sgp.misc:font/spawns/chaudron.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [
+                "\uE002"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "sgp.misc:font/spawns/crypte.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [
+                "\uE003"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "sgp.misc:font/spawns/dortoir.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [
+                "\uE004"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "sgp.misc:font/spawns/egouts.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [
+                "\uE005"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "sgp.misc:font/spawns/fontaine.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [
+                "\uE006"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "sgp.misc:font/spawns/galerie.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [
+                "\uE007"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "sgp.misc:font/spawns/gouffre.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [
+                "\uE008"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "sgp.misc:font/spawns/grande_salle.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [
+                "\uE009"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "sgp.misc:font/spawns/grange.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [
+                "\uE00A"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "sgp.misc:font/spawns/hangar.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [
+                "\uE00B"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "sgp.misc:font/spawns/jump_sud.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [
+                "\uE00C"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "sgp.misc:font/spawns/labyrinthe.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [
+                "\uE00D"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "sgp.misc:font/spawns/maison.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [
+                "\uE00E"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "sgp.misc:font/spawns/observatoire.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [
+                "\uE00F"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "sgp.misc:font/spawns/pavillon.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [
+                "\uE010"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "sgp.misc:font/spawns/puits.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [
+                "\uE011"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "sgp.misc:font/spawns/salon.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [
+                "\uE012"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "sgp.misc:font/spawns/sanctuaire.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [
+                "\uE013"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "sgp.misc:font/spawns/toit.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [
+                "\uE014"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "sgp.misc:font/spawns/vallons.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [
+                "\uE015"
+            ]
+        }
+    ]
+}
