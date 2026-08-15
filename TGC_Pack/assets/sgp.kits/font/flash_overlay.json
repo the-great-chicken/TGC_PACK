@@ -1,0 +1,11 @@
+{
+  "providers": [
+    {
+      "type": "bitmap",
+      "file": "sgp.kits:flash_overlay.png",
+      "ascent": 1000,
+      "height": 2000,
+      "chars": ["\uE000"]
+    }
+  ]
+}

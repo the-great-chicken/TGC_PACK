@@ -1,0 +1,6 @@
+{
+  "model": {
+    "type": "minecraft:model",
+    "model": "sgp.kits:item/invisible_item"
+  }
+}
