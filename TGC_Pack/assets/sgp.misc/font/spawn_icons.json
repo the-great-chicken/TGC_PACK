@@ -164,7 +164,7 @@
         },
         {
             "type": "bitmap",
-            "file": "sgp.misc:font/spawns/reunion.png",
+            "file": "sgp.misc:font/spawns/salon.png",
             "ascent": 8,
             "height": 8,
             "chars": [
