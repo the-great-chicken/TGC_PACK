@@ -1,0 +1,12 @@
+{
+  "variants": {
+    "face=floor,facing=north,powered=true": { "model": "block/1_acacia_f_n" },
+    "face=floor,facing=east,powered=true": { "model": "block/2_acacia_f_e" },
+    "face=ceiling,facing=north,powered=true": { "model": "block/4_acacia_c_n" },
+    "face=ceiling,facing=east,powered=true": { "model": "block/5_acacia_c_e" },
+    "face=floor,facing=south,powered=true": { "model": "block/7_acacia_f_s" },
+    "face=floor,facing=west,powered=true": { "model": "block/8_acacia_f_w" },
+    "face=ceiling,facing=south,powered=true": { "model": "block/10_acacia_c_s" },
+    "face=ceiling,facing=west,powered=true": { "model": "block/11_acacia_c_w" }
+  }
+}

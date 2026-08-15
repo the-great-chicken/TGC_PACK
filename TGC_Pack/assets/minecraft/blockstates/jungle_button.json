@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "face=floor,facing=north,powered=true": { "model": "block/eu1_jungle_f_n" },
+    "face=floor,facing=south,powered=true": { "model": "block/eu2_jungle_f_s" },
+    "face=floor,facing=east,powered=true": { "model": "block/eu4_jungle_f_e" },
+    "face=floor,facing=west,powered=true": { "model": "block/eu5_jungle_f_w" }
+  }
+}
