@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "face=floor,facing=north,powered=true": { "model": "block/iu0_warped_f_n" },
+    "face=floor,facing=south,powered=true": { "model": "block/iu1_warped_f_s" },
+    "face=wall,facing=west,powered=true": { "model": "block/iu2_warped_w_w" },    
+    "face=wall,facing=east,powered=true": { "model": "block/iu3_warped_w_e" },
+    "face=floor,facing=east,powered=true": { "model": "block/iu4_warped_f_e" },
+    "face=floor,facing=west,powered=true": { "model": "block/iu5_warped_f_w" }
+  }
+}

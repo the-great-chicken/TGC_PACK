@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "face=floor,facing=north,powered=true": { "model": "block/0_birch_f_n" },
+    "face=ceiling,facing=north,powered=true": { "model": "block/3_birch_c_n" },
+    "face=floor,facing=south,powered=true": { "model": "block/6_birch_f_s" },
+    "face=ceiling,facing=south,powered=true": { "model": "block/9_birch_c_s" },
+    "face=floor,facing=east,powered=true": { "model": "block/eu0_birch_f_e" },
+    "face=floor,facing=west,powered=true": { "model": "block/eu3_birch_f_w" }
+  }
+}
