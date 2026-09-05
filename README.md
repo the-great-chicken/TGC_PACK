@@ -1,6 +1,8 @@
 # TGC_PACK
 The resource pack of The Great Chicken
 
+Release archives include a root `release.json` containing the exact release tag and source commit. Consumers can use it to reject assets from the wrong resource-pack release; local working copies identify themselves as `development`.
+
 ## External Contributions
 The following textures were obtained with the creators' permission.
 
